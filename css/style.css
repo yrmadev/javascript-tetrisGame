@@ -40,8 +40,7 @@ body{
 
 h2 , h3 {
     text-align: center;
-    color: rgb(9, 32, 165);
-    
+    color: rgb(9, 32, 165);    
 }
 
 .orange {
@@ -50,11 +49,6 @@ h2 , h3 {
     -webkit-box-shadow:inset 0px 0px 0px 1px rgb(245, 243, 243);
     -moz-box-shadow:inset 0px 0px 0px 1px rgb(250, 245, 245);
     box-shadow:inset 0px 0px 0px 1px rgb(250, 250, 250);
-
-
-
-
-    
 }
 
 .red {
@@ -96,7 +90,6 @@ h2 , h3 {
     height: 80px;
     display: flex;
     flex-wrap: wrap;
-    
 }
 
 .mini-grid div{
@@ -106,27 +99,27 @@ h2 , h3 {
 
 #play{
     direction: ltr;
-margin: 10px;
-margin-top: 10px;
-margin-bottom: 10px;
-border: 1px solid;
-border-radius: 5px;
-color: #fff;
-cursor: pointer;
-display: inline-block;
-position: relative;
-text-shadow: 0 1px 2px rgba(0,0,0,.5);
-background: linear-gradient(#67ae55, #578843);
-background-color: #69a74e;
-box-shadow: inset 0 1px 1px #a4e388;
-border-color: #3b6e22 #3b6e22 #2c5115;
-min-width: 194px;
-padding: 7px 20px;
-text-align: center;
-line-height: 126%;
-font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
-font-weight: bold !important;
-letter-spacing: normal;
-text-rendering: optimizelegibility;
-font-size: 19px;
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    line-height: 126%;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+    font-size: 19px;
 }
